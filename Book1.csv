@@ -1,0 +1,89 @@
+﻿Unique Cuisines,labels,Code
+Arabian,Arabian,1
+Arabian,Arabian,1
+Kebab,Arabian,1
+Parsi,Arabian,1
+Shawarma,Arabian,1
+Asian,Asian,2
+Burmese,Asian,2
+Cantonese,Asian,2
+Indonesian,Asian,2
+Momos,Asian,2
+Nepalese,Asian,2
+North Eastern,Asian,2
+Oriental,Asian,2
+Sichuan,Asian,2
+Sikkimese,Asian,2
+Tibetan,Asian,2
+Vietnamese,Asian,2
+BBQ,BBQ,3
+Belgian,Belgian,4
+Bengali,Bengali,5
+Beverages,Beverage,6
+Bubble Tea,Beverage,6
+Cafe,Beverage,6
+Coffee,Beverage,6
+Drinks Only,Beverage,6
+Juices,Beverage,6
+Shake,Beverage,6
+Tea,Beverage,6
+Chinese,Chinese,7
+Bakery,Dessert,8
+Desserts,Dessert,8
+Ice Cream,Dessert,8
+Mithai,Dessert,8
+Pancake,Dessert,8
+Waffle,Dessert,8
+Continental,European,9
+European,European,9
+German,European,9
+Spanish,European,9
+American,Fast food,10
+Bar Food,Fast food,10
+Burger,Fast food,10
+Fast food,Fast food,10
+Finger Food,Fast food,10
+Grilled Chicken,Fast food,10
+Hot dogs,Fast food,10
+Rolls,Fast food,10
+Sandwich,Fast food,10
+Street Food,Fast food,10
+Tex-Mex,Fast food,10
+Greek,Greek,11
+Healthy Food,Healthy,12
+Salad,Healthy,12
+Wraps,Healthy,12
+Biryani,Hyderabadi,13
+Hyderabadi,Hyderabadi,13
+Andhra,Indian,14
+Assamese,Indian,14
+Awadhi,Indian,14
+Bihari,Indian,14
+Chettinad,Indian,14
+Himachali,Indian,14
+Kerala,Indian,14
+Modern Indian,Indian,14
+Naga,Indian,14
+Odia,Indian,14
+Tamil,Indian,14
+Italian,Italian,15
+Pasta,Italian,15
+Pizza,Italian,15
+Japanese,Japanese,16
+Sushi,Japanese,16
+Kashmiri,Kashmiri,17
+Korean,Korean,18
+Lebanese,Lebanese,19
+Mangalorean,Mangalorean,20
+Mediterranean,Mediterranean,21
+Mexican,Mexican,22
+Middle Eastern,Middle Eastern,23
+Moroccan,Moroccan,24
+Mughlai,Mughlai,25
+North Indian,North Indian,26
+Rajasthani,Rajasthani,27
+Seafood,Seafood,28
+Singaporean,Singaporean,29
+South Indian,South Indian,30
+Thai,Thai,31
+Turkish,Turkish,32

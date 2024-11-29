@@ -1,0 +1,451 @@
+Restaurant ID,Restaurant Name,Rating,Cuisines,Price for Two
+1,145 Cafe And Bar,4.3,"26,  1, 28, 9, 15, 8, 6, 10","Rs1,500"
+2,Punjab Grill,4.2,"26,  1, 13, 25","Rs2,000"
+3,MariÃ¨ta,4.2,"22, 9","Rs2,000"
+4,Yeti - The Himalayan Kitchen,4.3,"2, 2, 2, 2, 7, 2, 6","Rs2,100"
+5,Cafe By Soul,3.9,"6, 10, 15, 15, 10, 8, 6","Rs1,200"
+6,Nowhere Terrace Brewpub Cafe,4.3,"26,  2, 9, 16, 10, 15, 10","Rs2,000"
+7,Downtown - Sector 29,4.8,"2, 26,  1, 10, 2, 15, 25, 15","Rs2,800"
+8,Lost Lemons,4.1,"26,  9, 21","Rs1,800"
+9,United Coffee House Rewind,4.3,"26,  9, 2, 12, 15, 28, 8, 6","Rs2,300"
+10,Kogai - Fine Japanese Dining,4.5,"16, 16, 12, 2","Rs2,000"
+11,Cyber Hub Social,4.5,"26,  7, 13, 15, 10, 15, 18, 6","Rs1,500"
+12,"Unlocked - Bar, Kitchen, Escape Room",4.1,"9, 7, 26,  15","Rs2,200"
+13,Curry House CoCo Ichibanya,4.6,"16, 28, 12","Rs1,500"
+14,Asia Alive - DoubleTree By Hilton,4.2,"26,  2, 31, 2, 7, 8","Rs3,000"
+15,Spectra - The Leela Ambience,4.3,"26,  9, 2, 16, 8, 6, 15","Rs6,000"
+16,Glasshouse - DoubleTree by Hilton,3.9,"9, 26,  2, 9, 8, 8","Rs3,000"
+17,House #309 By Sweet Obsession,4.7,"6, 6, 15, 9, 12, 8","Rs1,600"
+18,Spice It - ibis Gurgaon Golf Course Road,3.8,"2, 9, 26,  10, 8, 6","Rs2,500"
+19,Clock Tower,4.6,"10, 26,  2, 15, 15, 9, 6","Rs3,000"
+20,Rao Hotel,4.1,"26,  10, 10, 7",Rs300
+21,Duty Free - Vayu Bar,4,"26,  10, 15, 8, 6","Rs1,800"
+22,Molecule Air Bar,4.5,"26,  2, 15, 9","Rs3,400"
+23,Oishii Wok,4.6,"2, 7, 16, 16, 18, 31, 6","Rs1,100"
+24,RYU Rooftop Bar,4.2,"26,  2, 15, 16, 15, 15, 7, 10","Rs2,000"
+25,The Gurgaon Diner,4.4,"26,  7, 9, 1, 15, 6, 6, 8","Rs1,000"
+26,Open Tap 29,4.4,"10, 2, 9, 10, 26,  6","Rs2,500"
+27,New York Street,4.1,"9, 26,  7, 10","Rs2,100"
+28,"Cocktails & Dreams, Speakeasy",4.8,"10, 2, 31, 6","Rs3,000"
+29,Poiz,4.5,"26,  9, 15, 7","Rs2,000"
+30,Laidback Cafe,4.6,"2, 2, 9, 15, 23, 26,  8, 6","Rs1,900"
+31,Under The Neem,4,"26,  12, 15, 15, 15, 8, 6","Rs3,000"
+32,You Mee,4.5,"2, 16, 16, 7, 31, 8, 6","Rs2,000"
+33,Comorin,4.7,"26,  14, 10, 10, 8, 6","Rs3,000"
+34,Zambar,4.5,"30,  28, 14, 8, 6","Rs1,200"
+35,Third Wave Coffee,4.4,"6, 6, 6, 6, 10, 10, 8, 15",Rs850
+36,Barista Coffee,3.9,"6, 6, 6, 10, 6, 8",Rs500
+37,Seasonal Tastes - The Westin Gurgaon,4.2,"26,  2, 2, 1, 8","Rs5,000"
+38,Themis Barbeque House,4.1,"26,  15, 25, 12, 8, 6, 3, 2","Rs1,800"
+39,The Big Tree Cafe,4.1,"26,  9, 15, 15, 15, 6, 6, 6","Rs1,200"
+40,Pukhtaan - Legacy of Padma Shri Chef Imtiaz Qureshi,4.1,"26,  13, 1","Rs1,300"
+41,Mala - Akbari,4.5,"26,  30,  28, 8, 6","Rs1,900"
+42,Unplugged Courtyard,4.3,"26,  7, 32, 16, 12, 15, 13, 6","Rs2,000"
+43,Roesia,4.6,"15, 2, 26,  8","Rs2,200"
+44,Decode Air Bar,4.2,"14, 10, 15, 2","Rs1,800"
+45,Pizzeria Da Susy,4.1,"15, 12, 6, 6","Rs1,200"
+46,Bell Botum Cocktail Bar & Kitchen,4.5,"9, 21, 2, 26","Rs2,000"
+47,The Drunken Botanist,4.4,"16, 15, 9, 2, 7, 12, 8","Rs3,000"
+48,7 Barrel Brew Pub,4.1,"26,  9, 7, 1, 12, 15, 6","Rs1,900"
+49,The Barbeque Company,4,"26,  7, 8","Rs1,600"
+50,Mittyesque,4.2,"26,  14, 9, 15, 19, 10, 2, 16","Rs2,400"
+51,VietNom,4.7,"2, 2, 12, 8, 6","Rs2,000"
+52,Shri Ram Dhaba,3.8,"26,  7, 10",Rs500
+53,One8 Commune,4.5,"26,  7, 15, 16, 9, 8, 6","Rs1,800"
+54,Ministry Of Beer,4.3,"10, 15, 10, 26,  6, 7","Rs3,000"
+55,Gin & Juliet,4,"7, 9","Rs2,000"
+56,Garden Lovers Botanical Boutique & Cafe,3.9,"6, 6, 6, 9, 12, 2, 6, 10",Rs850
+57,Peepal,4,"26,  25, 2, 15, 15, 6, 8, 6","Rs1,500"
+58,Cafe Aurika,4.1,"6, 10, 6, 10, 8","Rs1,200"
+59,Farzi Cafe,4.3,"26,  10, 15, 8","Rs2,000"
+60,Big Pitcher,4.3,"26,  2, 9, 7, 2, 21, 10, 13","Rs1,500"
+61,Dhaba - Estd 1986 Delhi,4.3,"26,  8","Rs1,400"
+62,Getafix,4.5,"12, 12, 15, 10, 9, 10, 8, 6","Rs1,700"
+63,Whisky Samba,4.2,"2, 16, 16, 28, 14, 10, 6, 8","Rs5,000"
+64,The Beer Cafe,4.3,"26,  15, 6","Rs2,500"
+65,Bellagio,4.3,"9, 15, 1, 25, 14, 12, 8","Rs3,000"
+66,Chowman,4.3,"7, 2, 31, 28, 2, 8, 6","Rs1,400"
+67,Romeo Lane,4.2,"10, 9, 7, 12","Rs3,700"
+68,Downtown Fresh Beer Cafe- Galleria Market,4.5,"26,  2, 9, 15, 10, 12, 10, 6","Rs1,800"
+69,Smoke House Deli,4.3,"9, 9, 15, 15, 12, 8, 6, 6","Rs1,800"
+70,"Factory - Pub, Bar & Brewery",4.2,"14, 2, 9, 15, 15, 7","Rs1,900"
+71,Burma Burma - Cyber Hub,4.9,"2, 2, 12, 8, 6, 6","Rs1,800"
+72,Pind Balluchi,3.9,"7, 25, 1, 13, 26,  14, 8, 6","Rs1,000"
+73,Avatar,4.2,"2, 9, 32, 14","Rs3,000"
+74,Raifu - Japanese Restaurant,4.7,"16, 16, 8","Rs2,000"
+75,Walking Street,4.2,"10, 2, 26,  9","Rs1,600"
+76,Sisli Cafe By Bootleggers,4.2,"6, 26,  15, 15, 7, 6","Rs1,500"
+77,Dasaprakash,4.3,"30,  26,  7, 6","Rs1,000"
+78,Manhattan Bar & Brewery,4.7,"10, 26,  9, 10, 15, 6","Rs1,700"
+79,Zorro - The Luxury Night Club,4.1,"10, 26,  9, 2","Rs2,700"
+80,Michigan Taps,4.2,"21, 1, 7, 26,  9, 15, 2","Rs2,000"
+81,BTW,4,"26,  8",Rs300
+82,The Barbeque Company,4,"3, 26,  7, 12, 10, 8","Rs1,800"
+83,Samosa Party,3.8,"10, 26,  8, 8, 6, 6",Rs300
+84,The Pit,3.9,"3, 10, 12, 15, 10","Rs2,000"
+85,The Masala Story,4,"26,  25, 1, 13, 7, 2, 8",Rs800
+86,Mustard Madras,4.1,"30,  7","Rs1,500"
+87,Anardana,4.5,"26,  25, 7, 15, 2, 13, 8, 6","Rs2,400"
+88,The Brook,4.2,"2, 2, 17, 2, 14, 14, 14","Rs3,000"
+89,Mamagoto,4.8,"2, 16, 28, 10, 12, 8, 6, 7","Rs1,400"
+90,Diablo Cyberhub,3.8,"21, 32, 1, 15, 8","Rs3,700"
+91,CAD Tech Bar,4.2,"10, 26,  25, 2, 15, 10, 6, 6","Rs2,200"
+92,Open Tap Golf Course Road,4.5,"10, 26,  13, 9, 7, 8, 6, 10","Rs2,500"
+93,Downtown - South Point Mall,4.5,"14, 21","Rs3,000"
+94,The Black Coffee Cafe,3.8,"22, 6",Rs200
+95,Brick N Bean CafÃ© Kitchen,4.6,"6, 9, 15, 10, 6, 8, 10","Rs1,700"
+96,Cafe Delhi Heights,4.2,"26,  15, 10, 9, 15, 15, 2, 8","Rs1,500"
+97,The Monk,4.4,"7, 31, 2","Rs2,000"
+98,Ghoomar Traditional Thali Restaurant,4.2,"27, 8, 6","Rs1,000"
+99,Pirates Of Grill,4.4,"26,  25, 12, 2, 8","Rs2,000"
+100,Kebabs & Curries Company,4.5,"26,  1, 7, 13, 10, 25","Rs1,000"
+101,Pirates Of Grill Grande,4.2,"26,  25, 7, 12, 8","Rs1,000"
+102,Melt House,4.4,"9, 6, 10, 15, 15, 8, 8, 6","Rs1,500"
+103,The House Of Celeste,4.1,"26,  9, 2, 15, 15, 10, 8, 6","Rs2,000"
+104,EBISU Fine Japanese Cuisine,4.6,"16, 16, 28, 12, 8","Rs2,000"
+105,Grotto - Authentic Woodfired Pizzas,4.8,"6, 15, 15, 6, 6",Rs850
+106,The Bikers Cafe,4.3,"9, 12, 15, 2, 16, 26,  10, 6","Rs1,800"
+107,Jamie Oliver Kitchen,4.5,"15, 15, 10, 10","Rs1,200"
+108,Ladera,4.5,"9, 21, 9, 15","Rs5,000"
+109,Downtown Skye - Suncity Business Towers,4.4,"9, 26,  2, 12, 10","Rs2,000"
+110,Karigari By Chef Harpal Singh Sokhi,4.5,"26,  1, 13, 25","Rs1,900"
+111,Ambarsari Chowk,3.6,"26,  25, 7, 1","Rs1,000"
+112,Yum Yum Cha,4.7,"2, 7, 31, 16, 16, 2, 8, 8","Rs2,000"
+113,21 Shots - Skybar & Brewery,4.2,"26,  7, 9, 2, 13, 2, 28, 8","Rs2,000"
+114,Gulati,4,"26,  25, 13, 1, 8, 6","Rs2,200"
+115,Brewocrat - Brewery Skybar & Kitchen,4.5,"9, 16, 26,  21, 2, 15, 10, 10","Rs2,500"
+116,Punjabi By Nature,4.3,"26,  25, 1, 8, 6, 13, 14, 28","Rs1,600"
+117,The Barbeque Times,4.2,"3, 30,  26,  2, 25, 10, 8, 8","Rs1,800"
+118,The Wine Company,4.1,"9, 10, 14, 6","Rs2,900"
+119,ARTH - Food For Your Soul,4.2,"30,  15, 12, 10, 22, 9, 2, 6","Rs1,500"
+120,Bahce,4.3,"9, 21, 26","Rs1,800"
+121,iluzn Club & Kitchen,4.3,"26,  7, 22, 9, 2, 2","Rs4,000"
+122,The Sunroom,4.4,"26,  9, 15, 10, 8, 8, 6, 6","Rs2,000"
+123,Indian Grill Room,4.5,"25, 26,  1, 8, 6","Rs2,200"
+124,Bhawan,4.6,"14, 10, 8, 26,  8, 6","Rs3,000"
+125,Circe Rooftop Bar,4.1,"21, 9, 2, 14, 26,  23, 7, 9","Rs2,000"
+126,Prate Cafe,4.4,"6, 9","Rs1,500"
+127,Juu Juu,4.3,"9, 21, 32, 9, 10","Rs3,000"
+128,Whiskers - Grand View,4.3,"10, 26,  1, 15, 22, 16, 7, 8","Rs3,000"
+129,La Vie Douce,4.5,"9, 15, 8, 9, 6, 6","Rs1,500"
+130,Cibo,4.2,"6, 15, 9, 12, 6, 6, 8",Rs950
+131,Open Tap,4.6,"10, 26,  7, 15, 10","Rs2,500"
+132,Kyma,4.1,"26,  15, 15, 16, 7, 6","Rs1,400"
+133,Sunset Story Lounge,4.4,"26,  25, 2, 9","Rs3,000"
+134,Michigan Taps - 49,4.3,"22, 15, 21, 19, 26,  2, 7","Rs2,500"
+135,Te Amo Bistro & Bar (By Michelin Star Chef Suvir Saran),4.2,"14, 2, 9, 12, 22, 26,  8, 6","Rs2,400"
+136,In The Punjab,4.5,"26,  1, 25","Rs1,500"
+137,Train Restaurant,3.2,"26,  7, 10, 8, 6","Rs1,000"
+138,Zoca Diner,4,"6, 6, 26,  15, 10, 10, 2, 6","Rs1,000"
+139,China Garden - Original Chinese Wok & Traditional Cantonese Dim Sum,4,"7, 18, 16, 28","Rs2,500"
+140,Kolaba - Specialty Coffee And Pizzeria,4.1,"15, 15, 6, 6, 6, 8, 15, 9","Rs1,000"
+141,Soca - Brew Lounge,4.2,"26,  2, 10, 31, 12, 8, 6, 6","Rs2,000"
+142,Blue Tokai Coffee Roasters,4.2,"6, 6, 10, 8, 8, 6","Rs1,500"
+143,Big Yellow Door,4.4,"2, 9, 26,  15, 22, 10, 8, 6","Rs1,400"
+144,Soul Barcelona,4.3,"2, 21, 26","Rs1,800"
+145,Cafe By Soul,4.3,"6, 15, 15, 15, 10, 8, 6, 10","Rs1,200"
+146,Adda By Striker,4.3,"26,  25, 7, 15, 22, 13, 8, 6","Rs1,700"
+147,Chai Point,4,"6, 6, 6, 6, 10, 10, 8, 6",Rs400
+148,Culina 44 - Taj City Centre Gurugram,4,"26,  2, 31, 9, 15, 22","Rs4,000"
+149,Grillardin,4.5,"9, 12, 14, 21, 8, 6","Rs2,000"
+150,PizzaExpress,4.2,"15, 15, 8, 6, 12, 6, 6","Rs1,400"
+151,Jalsa Indian And Ladakhi Kitchen,4.5,"2, 7, 26","Rs1,500"
+152,Brewdog,4.2,"9, 15, 10, 10","Rs2,000"
+153,Cafeteria & Co.,4.5,"22, 6, 15, 26,  9, 10, 6, 8",Rs900
+154,Tim Hortons,4.1,"6, 10, 10, 8, 6, 6",Rs800
+155,Copper Chimney - Since 1972,4.2,"26,  25, 13, 1, 8, 6","Rs1,600"
+156,My Secret Place,4,"15, 9, 15, 10, 8, 6, 6, 6","Rs1,400"
+157,Takashi ,4.1,"16, 16, 2","Rs2,000"
+158,Houz Cafe Bar,4.2,"9, 15, 21, 2, 12, 26","Rs1,800"
+159,Carnatic Cafe,4.1,"30,  6",Rs400
+160,Umai Noche,3.8,"16, 16","Rs1,500"
+161,Thaiesan,4.2,"31, 12, 28, 8, 6","Rs1,000"
+162,House Of Wok,4.1,"7, 2, 16, 31, 28, 6, 12",Rs900
+163,"Cafe Dakia- Pizza, Pasta & More",4.3,"15, 15, 10, 9, 10, 12, 6, 6",Rs850
+164,The Brewhouse - Radisson,4.4,"10, 2, 26,  9, 8, 6","Rs3,000"
+165,Hamoni ,4.3,"6, 26,  15, 7, 10, 12, 2, 8","Rs1,500"
+166,Studio XO Bar,3.8,"26,  7, 15, 8, 12, 6","Rs3,000"
+167,The Big Chill,4.6,"15, 15, 15, 12, 8, 8, 8","Rs2,400"
+168,Hydrama - Fusion Of Chinese Spice & Indian Delight,4.1,"26,  15, 15, 7, 10, 2, 8","Rs1,200"
+169,Tease - Taj City Centre Gurugram,4.9,10,"Rs4,000"
+170,Lucky 9 - The Foodie People,3.3,"26,  25, 13, 7","Rs1,000"
+171,Shophouse By Kylin,4.3,"2, 7, 16, 6","Rs1,400"
+172,Lake 360,3.9,"15, 9, 6","Rs4,500"
+173,Flight Of Dreams,3.7,"26,  7, 10, 9","Rs1,100"
+174,Desi Firangi by Clay Inn Hotel,4.3,"26,  25, 3, 28, 2, 9, 10, 6","Rs1,200"
+175,Palmyra - The Bristol Hotel,4,"9, 26,  25, 6, 15, 6","Rs3,000"
+176,Rhum Bar and Restaurant,4.2,"26,  15, 9, 2","Rs1,350"
+177,ReSet By Plan B,3.9,"26,  7, 9, 10","Rs1,400"
+178,Monet,4.4,10,"Rs2,500"
+179,PAUL,3.9,"6, 6, 15, 10, 12, 9, 8, 6","Rs2,100"
+180,Soi 7 Pub & Brewery,4.2,"7, 16, 12, 28, 15, 15, 6, 8","Rs2,000"
+181,The Piano Man,4.1,"9, 2, 15, 26","Rs2,000"
+182,The Ivy,4.5,"21, 9, 15","Rs1,200"
+183,Pepper Pot - The Terrace CafÃ©,3.9,"7, 26,  2, 6, 15",Rs600
+184,Atrium Deli - Ramada,3.9,"26,  15, 9","Rs3,000"
+185,Chaayos Chai+Snacks=Relax,3.9,"6, 6, 6, 10, 10, 6",Rs450
+186,China Garden Cafe,3.9,"7, 2, 16, 8, 6","Rs1,200"
+187,Kairos Cookhouse And Grill,3.6,"11, 9, 26","Rs1,400"
+188,Soul Mykonos,3.9,"15, 26,  21, 7, 15","Rs1,700"
+189,Harajuku Tokyo Cafe,4.1,"2, 16, 16, 6, 10, 8, 8, 6","Rs1,500"
+190,Bean Brew & Beyond,4.7,"6, 6, 9, 10, 10, 8, 8, 6","Rs1,200"
+191,Norenj Wine Dine & Fresh Beer Cafe,4.4,"9, 15, 2, 26,  23, 10, 8, 6","Rs2,200"
+192,Downtown Kitchen & Bar - Courtyard by Marriott,4.3,"26,  9, 7, 25, 30,  10, 10, 8","Rs4,000"
+193,Caffe-Bella Italia,4.5,"15, 15, 10, 9, 15, 6, 6, 8","Rs1,200"
+194,Cafe Belong,4.9,"6, 6, 6, 9, 15, 10, 10, 8",Rs800
+195,On Kourse Organically Yours,4.4,"2, 26,  9, 12, 8, 6","Rs1,800"
+196,The Hyve,4.2,"26,  2, 15, 15, 15, 9, 12, 6","Rs1,500"
+197,Prego - The Westin Gurgaon,4.4,"15, 28, 15, 12, 15, 8, 6","Rs3,500"
+198,Dough Boy Pizza,4.1,"15, 15","Rs1,000"
+199,Trippy Tequila,4.3,"2, 26,  9, 2","Rs2,200"
+200,Delhi Club House,4.3,"26,  30,  15, 16, 2","Rs2,200"
+201,NIKO,4.2,"2, 16, 16, 6, 12, 8","Rs2,500"
+202,Theos,4.5,"8, 8, 10, 6","Rs1,800"
+203,Diya - The Leela Ambience,4.2,"26,  1, 25, 13, 8","Rs4,000"
+204,Dana Choga,4.3,"26,  25, 1, 7, 2, 8","Rs1,100"
+205,Kokina,3.6,"26,  15, 2, 32, 6","Rs3,000"
+206,The Malabar Coast - By Appumm House,4.3,"30,  14, 13, 14, 20, 26,  28","Rs1,400"
+207,Daryaganj - By The Inventors Of Butter Chicken And Dal Makhani,4.2,"26,  25, 13, 8","Rs1,600"
+208,Imperfecto Patio,4.1,"26,  9, 2","Rs2,000"
+209,Greenr Cafe,4.5,"6, 12, 15, 15, 12, 8, 6",Rs800
+210,Two Hungry Stoners,4.3,"15, 15, 15, 10, 8, 6",Rs800
+211,Wackers - Fruits & Flavours,3.7,"8, 8, 15, 12, 8, 8, 10, 6",Rs200
+212,Pretz & Brats,4.3,"9, 9, 10, 9, 6","Rs1,800"
+213,Dosa Coffee,4.4,"30,  6",Rs500
+214,Matamaal - The Kashmiri Restaurant,4.2,"17, 26,  8, 8, 6","Rs1,600"
+215,Xero Degrees,3.9,"15, 10, 12, 2, 10, 10, 8, 6","Rs1,000"
+216,Diego Sundowner To Sunrise,4.4,"26,  2, 15, 15, 6","Rs2,800"
+217,Roots - Cafe In The Park,4.2,"26,  30,  10",Rs900
+218,Reflex,4.5,"26,  9, 7, 15, 9, 16, 13, 6","Rs2,500"
+219,Kaya House,3.9,"6, 6, 6, 2, 6, 8, 29",Rs700
+220,Cilantro - Trident Gurgaon,4.5,"2, 9, 26,  25, 15, 7, 8, 6","Rs5,500"
+221,Cantonese Aroma,4,"2, 7, 2, 28, 2","Rs1,000"
+222,Striker Skybar,4.3,"26,  7, 12, 2, 9, 15, 10, 15","Rs2,500"
+223,21 Gun Salute,4,"26,  9, 2, 7, 13, 25, 8","Rs2,500"
+224,Sandoz,4.1,"26,  7, 25, 28, 10","Rs1,400"
+225,COMO - Pizzeria,4,"15, 15, 9, 12, 6, 6, 12","Rs2,000"
+226,Spezia Bistro,4.4,"15, 15, 2, 10, 16, 10, 8, 6","Rs1,400"
+227,Cafe Dori,4.2,"6, 8, 6","Rs1,500"
+228,Aravali Pavilion - ITC Grand Bharat,3.8,26,"Rs4,000"
+229,The Lounge - Hyatt Regency,4.1,10,"Rs3,600"
+230,Throttle Shrottle,3.9,"6, 10, 10",Rs800
+231,The Salt,3.5,"26,  7, 10",Rs400
+232,The Great Kabab Factory - Park Plaza,3.9,"26,  25, 1, 13, 8, 6","Rs3,000"
+233,Threesixtyone Degrees - The Oberoi,4.8,"2, 9, 26,  25, 8, 6, 15, 7","Rs5,000"
+234,"Cena Pranzo - Italian Eatery, Grand Hyatt Gurgaon",4.7,"15, 15, 15, 6, 8","Rs3,500"
+235,Maison Maiya - Grand Hyatt,4.4,"26,  2","Rs3,500"
+236,Biryani By Kilo,4.2,"13, 13, 1, 26,  8, 8",Rs600
+237,Rim Jhim Dhaba,3.9,"26,  10, 7, 6",Rs400
+238,Al Bake Shawarma,2.8,"1, 26,  13, 10, 25, 19, 7",Rs500
+239,Latest Recipe - Le Meridien Gurgaon,4.2,"26,  2, 9, 15","Rs3,500"
+240,Dakotta Kitchen & Grill,3.9,"26,  2, 28, 7, 15, 13, 25, 6","Rs1,700"
+241,OMI By Aldott,4.1,"26,  10, 7, 13","Rs1,700"
+242,Zoreko,4.4,"26,  7, 13, 15, 10","Rs1,200"
+243,EEST - The Westin Gurgaon,4.3,"2, 16, 31, 7","Rs4,500"
+244,Kofuku,4.8,"16, 18, 2, 2, 10, 7, 16, 8","Rs2,500"
+245,The Pasta Bowl Company,4.3,"15, 9, 15, 15, 8, 6","Rs1,600"
+246,Ha Cha,3.6,"15, 26","Rs1,400"
+247,C2H5Oh,4.2,"26,  2, 7, 15, 9","Rs1,200"
+248,Almadhaq,4.3,"19, 24, 21, 1","Rs1,500"
+249,Zoca Diner,3.9,"26,  25, 2, 7, 2, 15, 10, 6","Rs1,200"
+250,Cafe NH8 - Radisson,4.2,"9, 15, 26,  2","Rs3,000"
+251,Neighbourly - Cafe Delhi Heights,4.5,"6, 6, 15, 9, 26,  7, 8, 6","Rs1,800"
+252,Caffe Tonino,3.9,"15, 15, 15, 8, 6","Rs2,500"
+253,The Grammar Room,3.4,"9, 12, 8","Rs2,200"
+254,Bella Ciao,2.9,"26,  7, 15, 10, 6, 6","Rs1,000"
+255,Panchgaon Proudly Desi,4.1,"26,  10, 7, 30,  6, 8","Rs1,200"
+256,G Town Cafe 65,4.3,"15, 2, 15, 15, 6, 6, 8, 6",Rs550
+257,Striker 29,4.2,"21, 26,  2, 10, 6","Rs1,400"
+258,Guftagu Cafe,3.7,"6, 26,  15, 10, 12, 9, 6, 6","Rs1,400"
+259,Toy Box,4.2,"9, 7, 26,  15, 9, 10, 15, 6","Rs3,000"
+260,Cafe OMI,4,"6, 6","Rs1,000"
+261,Circle Restaurant - Radisson,3.7,"26,  2, 16, 7, 10, 8","Rs2,200"
+262,Sandhouse CafÃ©,4.2,"9, 15, 10, 15, 6, 6, 6","Rs1,200"
+263,Quaff Brewing Co.,4.3,"26,  7, 15, 15","Rs3,000"
+264,Barista Diner,4.1,"6, 9, 15","Rs1,200"
+265,"Drizzle & Dust - Cakes, Brownie and Dessert",4,"8, 8, 10, 6, 6",Rs500
+266,Barbeque Nation,4.5,"26,  3, 13, 1, 9, 8","Rs2,300"
+267,The Red Brick Room - The Westin Sohna Resort & Spa,4.4,"26,  7, 12, 2, 15, 32, 8, 6","Rs5,000"
+268,Healthy Heights Cafe,3.9,"12, 12, 10, 6, 6, 6",Rs650
+269,RYBA,4.1,"1, 1, 32, 23","Rs1,000"
+270,Hearthside Kitchen,3.5,"26,  9, 7, 12, 8, 6, 6","Rs1,000"
+271,Foxtrot,4.5,"9, 15, 9, 14, 26,  6","Rs2,200"
+272,Thalaivar - The Boss Of South Indian Food,3.1,"30,  14, 14, 13, 20, 6, 14, 14","Rs1,200"
+273,Di Ghent Cafe,4.3,"6, 6, 9, 4, 15, 8, 8","Rs2,000"
+274,Naivedyam,4,"30,  8",Rs800
+275,Cosy Box,4.2,"21, 9, 9, 32, 16, 2, 8, 6","Rs3,000"
+276,Chinese Wok,3.9,"7, 2, 8, 6",Rs700
+277,Folks,4.9,"26,  7, 9, 10, 12, 8, 6","Rs2,500"
+278,Kuuraku,4.6,"16, 16, 6, 10","Rs2,500"
+279,WOW! Momo,4,"2, 10, 7, 2, 2, 6, 8",Rs400
+280,Mix - The Westin Sohna Resort & Spa,3.8,"9, 10","Rs3,000"
+281,Aapkii Rasoee,4.1,"26,  7, 13, 10, 10",Rs500
+282,Vapour Bar Exchange,4.1,"26,  7","Rs2,000"
+283,Daddy Of Tastes,4.4,"26,  7, 25, 9, 8","Rs2,300"
+284,The Potbelly Divine,4.3,"26,  14, 13, 28, 6","Rs1,700"
+285,Sutra Gastropub,4.1,"10, 26,  2, 9, 15, 6","Rs2,800"
+286,Swagath,4.5,"30,  26,  7, 28, 14","Rs1,100"
+287,Where Else,3.4,"26,  10, 15, 6","Rs1,400"
+288,Don Vada Pav N Rolls,3.8,"10, 7, 10, 10",Rs300
+289,Loop,3.6,10,"Rs2,000"
+290,Heritage,4.3,"26,  25, 1, 13, 7, 8, 6","Rs1,400"
+291,KFC,4.2,"10, 10, 10",Rs400
+292,Costa Coffee,3.9,"6, 6, 6, 6",Rs500
+293,Shawarma House,4.2,"1, 23, 12, 21, 10, 12, 1",Rs500
+294,Sagar Ratna,3.5,"30,  26,  6, 8, 7","Rs1,100"
+295,Rajasthali,3.2,27,"Rs1,000"
+296,TOS - Taste Of Sikkim,3.7,"7, 2, 2, 2, 6",Rs550
+297,Kokkinos,4,"26,  9, 15, 15, 16, 2, 8, 6","Rs4,000"
+298,Cafe Mez,4.2,"19, 32, 8, 6, 6, 21","Rs1,800"
+299,California Burrito,4.5,"22, 10, 9, 12, 6, 10",Rs450
+300,Bade Bhai Ka Brother Dhaba,4.1,"26,  25, 13, 10, 7, 2",Rs550
+301,Taste Of Odisha,3.9,"26,  25, 28, 10, 7, 10, 6",Rs600
+302,Dhaba HR 26,2.7,"26,  7, 9, 25, 13, 10, 6","Rs1,400"
+303,My Tea Chapel - Pinsa Pizza And Waffles,4.4,"6, 15, 8",Rs600
+304,AMPM CafÃ© & Bar,4.3,"9, 15, 10, 9, 2, 6, 8","Rs1,400"
+305,Cinnabon,3.7,"8, 6, 10",Rs500
+306,SodaBottleOpenerWala,4.2,"1, 26,  10, 8, 6","Rs1,800"
+307,"21 Shots - Bar, Terrace & Disco",4.2,"26,  9, 15, 15, 10, 8, 6","Rs2,000"
+308,Mjol Bake House,4.2,"6, 6, 10, 10, 8","Rs1,300"
+309,beekend,4.1,"6, 8, 18, 6",Rs600
+310,Lucknowi Galawati Kababs,3.9,"26,  13",Rs700
+311,Patisserie - Sweet Melodies - Radisson Gurugram Sohna Road City Center,3.9,"8, 8","Rs1,200"
+312,Cocco N Curry,4,"30,  26,  7, 8","Rs1,100"
+313,Kake Da Hotel Since 1931,3.5,"26,  7, 13, 25, 1, 10","Rs1,000"
+314,Feel Alive,4.4,"26,  10, 15, 2, 9, 10","Rs2,500"
+315,Cafe Central - Radisson,3.9,"26,  9, 7","Rs3,000"
+316,Saffron - Trident Gurgaon,4.5,"26,  6, 1, 25","Rs5,000"
+317,Badmaash Kebabi,4.1,"26,  25, 10, 1, 13, 14, 6","Rs1,000"
+318,FLY7,3.5,"26,  2, 16, 9, 15, 15, 8, 6","Rs2,000"
+319,Got Tea,4.2,"6, 6, 18, 8, 6",Rs600
+320,Royal Dhaba,4,"26,  25, 7, 6","Rs1,200"
+321,689 - Six Eighty Nine,3.9,"2, 16, 12","Rs2,000"
+322,Haldiramâ€™s,3.6,"26,  7, 8",Rs300
+323,Mil.Coffee,3.9,6,Rs450
+324,"Lyrah-Alfresco Bar â€“ Trident, Gurgaon",4.2,"10, 6","Rs2,000"
+325,SardarJi Malai Chaap Wale,4.1,"26,  10, 8, 6","Rs1,000"
+326,Lebab,3.9,"19, 21",Rs500
+327,"Gush - Airbar, Brewery & Kitchen",3.9,"10, 26,  7, 13, 15, 15, 8, 6","Rs1,500"
+328,Kalaunji by Sticky Rice,4.3,"26,  25, 13, 8, 6",Rs500
+329,Cafe Amaretto,4.3,"6, 15, 15, 22, 8, 8, 6","Rs1,700"
+330,Kaffee Stories,4.5,"6, 6, 7, 2, 12, 6",Rs600
+331,Long Finish By Ramen Donn,4.2,"16, 8","Rs1,000"
+332,Sweet Obsession Bakery,4.2,"8, 10, 6","Rs1,200"
+333,Bikanervala,4.1,"8, 26,  30,  7, 10, 10, 6, 8",Rs500
+334,Costa Coffee,3.8,"6, 6, 6, 8, 8",Rs600
+335,Fabcafe By Fabindia,3.2,"6, 12, 26,  12, 6, 6, 6, 8",Rs700
+336,Koolchaas,4.3,"10, 6, 26,  10",Rs350
+337,Citrus Cafe - Lemon Tree Premier,3.8,"26,  9, 7, 6","Rs3,500"
+338,Soul Garden,3.9,"6, 6, 9, 21, 15, 8, 6, 6","Rs1,100"
+339,Kung Thai,4,"31, 2, 7, 2","Rs1,000"
+340,Mugz Cafe,4.2,"9, 15, 6",Rs950
+341,Dhaba 29,4.2,"26,  1, 6, 8","Rs1,500"
+342,Cafe G - Crowne Plaza,4.2,"26,  9, 7, 6","Rs4,000"
+343,SugarLicious,4.2,"8, 10, 15, 12, 6, 8, 6",Rs600
+344,Ranisa N Rajasa,4.4,"27, 8, 6","Rs1,000"
+345,Rominus Pizza And Burger,4,"15, 10, 10",Rs500
+346,Biryani Blues,3.9,"13, 13, 25",Rs900
+347,Dribble,3.7,"6, 6, 6, 9, 15, 15, 10, 8",Rs850
+348,Ice Pice,4.3,"6, 8, 8, 6",Rs300
+349,Bengal Curry,3.8,"5, 28","Rs1,200"
+350,Thalairaj Biryani,4.4,"14, 13, 13, 30,  6",Rs600
+351,Taco Bell,3.4,"22, 10, 12, 2, 8, 6",Rs500
+352,Big Dream Cafe,3.3,"26,  10, 6, 8","Rs1,800"
+353,Courtyard Grill - Courtyard by Marriott,4.3,26,"Rs3,000"
+354,Sky Club - Rhythm Gurugram,3.8,26,"Rs2,200"
+355,Grubsoul Seafoods,4.8,"28, 26","Rs1,500"
+356,The Joint Cafe,4.2,"9, 10, 10, 7, 12, 15, 6, 8","Rs1,700"
+357,Diamond Hotel & Restaurant,3.4,"26,  10, 7, 10, 6",Rs500
+358,Warehouse Cafe,4.1,"10, 26,  9, 15, 15, 10","Rs2,500"
+359,Be Raw,4.3,"26,  7, 13, 2, 6, 10, 6","Rs1,000"
+360,Solasta,3.8,"26,  9, 7, 2, 31","Rs1,200"
+361,Pero,3.8,"12, 6, 9, 8",Rs600
+362,FYB Health Cafe,3.8,"6, 6, 12, 9, 15, 6, 6","Rs1,000"
+363,Brownyumm-100% Wholewheat Brownies,4.3,"8, 8",Rs900
+364,Gigi Bistro Indiano,4.4,"26,  21, 2, 7, 15","Rs1,900"
+365,Subway,4.4,"12, 10, 10, 12, 12, 6",Rs400
+366,Kailash Dhaba,3.3,26,Rs450
+367,Sabse Sasta Spicy Food,3.8,"7, 26,  30,  10, 2, 15, 10, 10",Rs350
+368,Cake,3.6,"8, 8",Rs250
+369,Parvanii,3.6,"5, 14, 26,  28, 8, 6",Rs500
+370,China Club,4.3,"7, 2, 28, 2, 2","Rs4,000"
+371,Aminia,4.3,"26,  25, 13, 10, 5",Rs600
+372,Crave Bar - Radisson,3.9,"10, 6","Rs3,000"
+373,Melange - The Pllazio Hotel,4.1,"26,  2, 9, 15, 6","Rs3,500"
+374,THE NYC BURRITO,3.8,"22, 10, 12",Rs400
+375,Kanha Rajwadi Thal,3.5,"27, 26,  30,  7, 10, 10, 6","Rs1,000"
+376,Dadi Key Rasoi,3.9,"26,  7, 10, 10, 6",Rs300
+377,Jamie Oliver Kitchen Cafe,4.3,"12, 6, 12, 10, 6, 9","Rs1,800"
+378,Tuckinn Fresh Beer Cafe,4.4,"7, 12, 26,  9, 28, 2, 25, 15","Rs2,000"
+379,Raaz Dhaba,3.7,"7, 26,  25",Rs500
+380,Burger Point,4.1,"10, 10, 10, 12, 6",Rs450
+381,Biryani Blus,3.9,"13, 25",Rs300
+382,Cake Plaza,3.9,8,Rs450
+383,Rolls Town,3.9,"10, 7",Rs200
+384,AMPM Store,3.7,"10, 10, 15, 10, 8, 6, 6",Rs400
+385,Big Smokin Burgers,3.8,"10, 10, 10, 12, 6, 6",Rs300
+386,Cafe Coffee Day,3.3,"6, 8, 6, 6, 6, 10, 8",Rs750
+387,3 Hum Cafe,3.9,"6, 6, 15, 15, 10, 10, 8, 6",Rs600
+388,Parisian,4.2,"8, 8","Rs2,000"
+389,The Old Delhi,3.3,"26,  25, 13, 1, 10",Rs650
+390,Sasa Cafe,3.5,"26,  7, 15, 10","Rs1,000"
+391,Kitchen District - Hyatt Regency Gurgaon,4.1,"2, 9, 26","Rs3,500"
+392,Flavours by Golden Tulip Hotel,4.2,"9, 26,  7, 12, 8, 6","Rs1,800"
+393,Greppo Cafe,3.6,"26,  7, 9, 2, 15, 10, 12, 8","Rs1,700"
+394,The Glutton Cafe,3.8,"26,  28, 7, 8","Rs1,000"
+395,Chai 06,3.6,"6, 10, 15, 7, 2, 10, 6",Rs500
+396,Sada Punjab,3.6,"26,  10, 6",Rs350
+397,The Maclo Cafe,3.5,"26,  15, 15, 10, 7, 10, 10, 6",Rs300
+398,Nazim Khan Kathi Roll,3.3,"10, 7, 26,  10",Rs600
+399,69 Bakers Street,3.7,8,Rs550
+400,Haryanvi Handi Chicken,3.7,26,Rs350
+401,Healthy Clan,3.8,"12, 6, 6, 6",Rs450
+402,Shree Om Food Plaza,3.8,"26,  7, 10",Rs450
+403,Pirates Pizza,3.5,"15, 10, 10, 6",Rs450
+404,Dhaba NH8,3.9,"26,  25",Rs250
+405,Chaiiwala Honest Tea,3.7,"7, 26,  10, 6",Rs200
+406,B2B - Between 2 Buns,3.8,"10, 7, 10, 6",Rs400
+407,Biso - Citrus Hotel,3.7,"26,  7, 9, 16, 15","Rs2,500"
+408,Shreya Shuddh Bhojanalya,3.4,"26,  10",Rs400
+409,Bengali Bistro,3.6,"26,  25, 7, 13, 28, 10",Rs650
+410,Xpressions Caffe,4,"6, 6, 6, 26,  15, 22, 10, 10",Rs600
+411,New Town Cafe - Park Plaza,3.3,"26,  10, 2, 10, 8, 6","Rs2,700"
+412,Midam,3.7,18,"Rs1,800"
+413,Thai Pavilion - Taj City Centre Gurugram,4.6,"31, 2, 28, 8, 16, 16","Rs5,000"
+414,WOW! China,3.6,7,Rs400
+415,The Groove,3.7,"9, 2, 15, 26","Rs2,800"
+416,Cafe Mezna - Flavours Of Middle East,3.9,"23, 32, 10, 6","Rs1,200"
+417,The Forestta,3.4,"26,  7, 15, 9, 8, 6","Rs1,000"
+418,Zanotta - The Leela Ambience,4.3,"15, 8, 6","Rs5,000"
+419,Hashtag Pizzeria,4.1,"15, 10, 6, 6, 15",Rs600
+420,The Food Store - DoubleTree By Hilton,4,"26,  9, 15, 8","Rs3,500"
+421,Barumbaa Bar & Bistro,4.1,"9, 26,  15, 15, 8, 21","Rs2,500"
+422,Jannat Vaishno Dhaba,3.6,"26,  7, 10",Rs550
+423,Love Over Coffee,4.5,"6, 6, 10","Rs1,000"
+424,Tossin Pizza,4.2,"15, 15, 15, 6, 6, 8, 10","Rs1,200"
+425,The Kachori Story,3.9,"10, 10, 8, 6, 27",Rs400
+426,Thali Mania,3.7,26,Rs300
+427,Kaynat Special Biryani,3.6,"13, 26",Rs400
+428,Tandoori Grill,3.5,"26,  13","Rs1,000"
+429,Sikkim Downtown Chinese Fastfood,3.7,"7, 2",Rs400
+430,Bake My Cake,3.4,"8, 8",Rs400
+431,HR 43 Dhaba,3.6,"7, 26,  13, 6",Rs400
+432,Shahi Biryani,3.3,"13, 26",Rs500
+433,Pizza Hut,3.3,"15, 10, 15, 8, 6",Rs600
+434,Celebration Cake Shop,3.4,"8, 8",Rs400
+435,Madhuz Kitchen,3.9,"26,  7, 25, 10",Rs500
+436,Red Chilliz,3.7,"26,  7",Rs400
+437,24Seven,3.7,"10, 10, 26",Rs300
+438,Jai Jawan Jai Kisan - South Indian Fast Food,3.3,30,Rs200
+439,Curry Station,3.5,"7, 26,  25",Rs500
+440,Party Time Pizza,3.6,"15, 15, 10, 10, 12, 2, 6, 6",Rs250
+441,Brothers Restaurant,3.7,26,Rs150
+442,The Kiar Cafe,3.6,"7, 10, 2, 15, 26,  10, 10, 6",Rs400
+443,Mavensh Kitchen,3.8,"26,  25, 7, 10, 13, 6",Rs900
+444,Midnight Pizza,3.8,"15, 10",Rs550
+445,Signature Cafe,3.6,"7, 26,  28, 10, 10, 10, 2",Rs400
+446,KK Chinese Corner,3.9,"7, 26",Rs300
+447,La Mensa Restaurant,3.6,"26,  7, 6, 8",Rs450
+448,RollsKing,3.4,"10, 26,  6, 10",Rs300
+449,Abir,3.9,"14, 9, 6","Rs1,500"
+450,Vibe,4.4,"22, 9, 2, 26,  8","Rs4,000"
